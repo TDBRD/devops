@@ -46,6 +46,7 @@
     </configuration>
 </plugin>
         </plugins>
+    <finalName>devops</finalName>
     </build>
 	<distributionManagement>
 		<repository>
